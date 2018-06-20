@@ -1,9 +1,6 @@
 {
-  "name": "marked",
-  "homepage": "https://github.com/markedjs/marked",
-  "authors": [
-    "Christopher Jeffrey <chjjeffrey@gmail.com>"
-  ],
+  "name": "marked-cn-spain",
+  "homepage": "https://github.com/condenast-spain/marked-cn-spain",
   "description": "A markdown parser built for speed",
   "keywords": [
     "markdown",

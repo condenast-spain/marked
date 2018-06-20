@@ -1,16 +1,13 @@
 {
-  "name": "marked",
+  "name": "marked-cn-spain",
   "description": "A markdown parser built for speed",
   "author": "Christopher Jeffrey",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
   "man": "./man/marked.1",
-  "repository": "git://github.com/markedjs/marked.git",
-  "homepage": "https://marked.js.org",
-  "bugs": {
-    "url": "http://github.com/markedjs/marked/issues"
-  },
+  "repository": "git://github.com/condenast-spain/marked-cn-spain",
+  "homepage": "http://www.cnworld.es/",
   "license": "MIT",
   "keywords": [
     "markdown",
